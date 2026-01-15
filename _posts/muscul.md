@@ -1,0 +1,25 @@
+[Accueil]( ../index.md ) &nbsp;&nbsp;&nbsp;[Cardio]( cardio ) &nbsp;&nbsp;&nbsp;[Building]( muscul ) &nbsp;&nbsp;&nbsp;[Food]( food ) &nbsp;&nbsp;&nbsp;[Motivation]( motivation ) &nbsp;&nbsp;&nbsp;[Evolution]( evo )
+
+# Strength Training: Build Your Body and Mind
+
+## Introduction
+Strength training is a physical activity aimed at developing muscle strength, size, and tone. It is suitable for all levels, whether you are a beginner or an experienced athlete, and offers many benefits for physical and mental health.
+
+## Why Practice Strength Training?
+* Muscle Strengthening
+* Increased Metabolism
+* Posture Improvement
+* Self-Confidence
+* Injury Prevention
+
+## Common Strength Training Exercises
+Squats,Push-ups, Pull-ups, Bench presses,Bicep curls
+
+## Tips for Beginners
+Start with light weights to master the technique.
+Perform regular sessions, 2 to 3 times a week.
+Don't forget to warm up before each workout.
+Allow recovery periods to enable muscle repair.
+
+## Conclusion
+Strength training is a comprehensive activity that contributes to your overall well-being. By incorporating exercises suited to your level, you'll see progress quickly and feel the benefits in your daily life.
