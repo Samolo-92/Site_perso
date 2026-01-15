@@ -1,3 +1,4 @@
+yaml
 
 ---
 title: Accueil
