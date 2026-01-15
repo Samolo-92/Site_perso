@@ -1,4 +1,11 @@
 theme: Beautiful Jekyll
-title: my website
+title: my workout
 description : my workout routine
 athor: sami D
+readtime: true
+last-updated : 2026/01/15
+
+# Couleurs principales
+color_scheme: dark
+primary_color: "#3498db" # couleur principale en hexadécimal
+background_color: "#ffffff" # couleur de fond
