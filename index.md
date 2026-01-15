@@ -1,5 +1,7 @@
+---
 layout : default
 title: Accueil
+---
 
 # Welcome to my blog
 
