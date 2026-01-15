@@ -1,9 +1,3 @@
-yaml
-
----
-title: Accueil
-layout: default
----
 
 # Welcome to my blog
 
