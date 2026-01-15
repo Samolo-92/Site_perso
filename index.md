@@ -1,4 +1,4 @@
-{% include menu.html %}
+{% menu.html %}
 # Welcome to my blog
 
 <img src="283842-P6RT1M-300.jpg" alt="Ma routine d'entraînement" style="width:30%;" />
