@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Ma page d'accueil
 ---
 
