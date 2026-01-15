@@ -1,5 +1,5 @@
 
-[Accueil]( index.md ) &nbsp;&nbsp;&nbsp;[Cardio]( _posts/cardio ) &nbsp;&nbsp;&nbsp;[Building]( _posts/ ) &nbsp;&nbsp;&nbsp;[Food]( _posts ) &nbsp;&nbsp;&nbsp;[Motivation]( _posts ) &nbsp;&nbsp;&nbsp;[Evolution]( _posts )
+[Accueil]( index.md ) &nbsp;&nbsp;&nbsp;[Cardio]( _posts/cardio ) &nbsp;&nbsp;&nbsp;[Building]( _posts/muscul ) &nbsp;&nbsp;&nbsp;[Food]( _posts/food ) &nbsp;&nbsp;&nbsp;[Motivation]( _posts/motivation ) &nbsp;&nbsp;&nbsp;[Evolution]( _posts/evo )
 
 <br>
 
