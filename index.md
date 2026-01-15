@@ -1,9 +1,4 @@
----
-layout: default
-title: Mon blog
----
 
-<!-- Ton menu directement dans la page -->
 <nav>
   <ul style="list-style: none; display: flex; gap: 15px;">
     <li><a href="{{ '/' | relative_url }}">Accueil</a></li>
