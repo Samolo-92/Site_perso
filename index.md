@@ -2,9 +2,11 @@
 <nav>
   <ul style="list-style: none; display: flex; gap: 15px;">
     <li><a href="{{ '/' | relative_url }}">Accueil</a></li>
-    <li><a href="{{ '/a-propos/' | relative_url }}">À propos</a></li>
-    <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+    <li><a href="{{ '/cardio/' | relative_url }}">Cardio</a></li>
+    <li><a href="{{ '/building/' | relative_url }}">Building</a></li>
+    <li><a href="{{ '/food/' | relative_url }}">Food</a></li>
+    <li><a href="{{ '/moti/' | relative_url }}">Motivation</a></li>
+    <li><a href="{{ '/evo/' | relative_url }}">Evolution</a></li>
   </ul>
 </nav>
 
