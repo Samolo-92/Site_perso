@@ -1,8 +1,8 @@
-layout :
+layout : default
 title: Accueil
 
-# Bienvenue sur mon site Jekyll
+# Welcome to my blog
 
-Welcome to my blog. Here, I share my workout routine, tips, experiences, and progress. My goal is to stay motivated, improve every day, and encourage others who want to incorporate fitness into their lives. I hope my posts can inspire you to stay active and achieve your own goals.
+ Here, I share my workout routine, tips, experiences, and progress. My goal is to stay motivated, improve every day, and encourage others who want to incorporate fitness into their lives. I hope my posts can inspire you to stay active and achieve your own goals.
 
 ![Ma routine d'entraînement](283842-P6RT1M-300.jpg)
