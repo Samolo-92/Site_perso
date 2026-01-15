@@ -1,8 +1,6 @@
 # ![The Importance of a Healthy Diet][1]
 
-
-![Ma routine d'entraînement](283842-P6RT1M-300.jpg)
-|![Ma routine d'entraînement](283842-P6RT1M-300.jpg) |
+# ![Ma routine d'entraînement](/_posts/heartveg.jpg) The Importance of a Healthy Diet
 
 # The Importance of a Healthy Diet
 
