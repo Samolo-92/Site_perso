@@ -1,6 +1,9 @@
-theme: architect
 title: my workout
 description : my workout routine
 athor: sami D
 readtime: true
 last-updated : 2026/01/15
+theme: architect
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
