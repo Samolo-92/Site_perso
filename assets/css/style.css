@@ -1,0 +1,18 @@
+---
+---
+
+/* Style pour le titre principal */
+.titre-dynamique {
+  color: red;
+  font-size: 3em; /* taille plus grande */
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  transition: all 0.3s ease;
+}
+
+/* Effet au survol pour rendre le titre plus dynamique */
+.titre-dynamique:hover {
+  color: orange;
+  transform: scale(1.05);
+}
+
