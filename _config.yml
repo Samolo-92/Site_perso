@@ -1,7 +1,9 @@
+<<<<<<< HEAD
+=======
 theme: beautiful-jekyll
+>>>>>>> 42fd7ef436721b1092d80c4adda5a736acfc08b6
 title: my workout
 description : my workout routine
 athor: sami D
 readtime: true
 last-updated : 2026/01/15
-baseurl: "/SITE_PERSO"
