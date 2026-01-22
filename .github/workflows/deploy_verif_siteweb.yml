@@ -1,0 +1,20 @@
+name: Vérification du site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check-site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Vérifier si le site est accessible
+        run: |
+          STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" https://samolo-92.github.io/Site_perso/)
+          if [ "$STATUS_CODE" -ne 200 ]; then
+            echo "Site inaccessible, code HTTP: $STATUS_CODE"
+            exit 1
+          else
+            echo "Site accessible avec le code HTTP 200"
+          fi
