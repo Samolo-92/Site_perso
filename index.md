@@ -3,7 +3,7 @@ layout: home
 title: Ma page d'accueil
 ---
 
-[Accueil]( index.md ) &nbsp;&nbsp;&nbsp;[Cardio]( _posts/cardio.md ) &nbsp;&nbsp;&nbsp;[Building]( _posts/muscul.md ) &nbsp;&nbsp;&nbsp;[Food]( _posts/food.md ) &nbsp;&nbsp;&nbsp;[Motivation]( _posts/motivation.md ) &nbsp;&nbsp;&nbsp;[Evolution]( _posts/evo.md )
+[Accueil]( ./index.md ) &nbsp;&nbsp;&nbsp;[Cardio]( ./_posts/cardio.md ) &nbsp;&nbsp;&nbsp;[Building]( ./_posts/muscul.md ) &nbsp;&nbsp;&nbsp;[Food]( ./_posts/food.md ) &nbsp;&nbsp;&nbsp;[Motivation]( ./_posts/motivation.md ) &nbsp;&nbsp;&nbsp;[Evolution]( ./_posts/evo.md )
 
 <br>
 
