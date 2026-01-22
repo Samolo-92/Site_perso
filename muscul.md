@@ -1,4 +1,3 @@
-[Accueil]( ../index.md ) &nbsp;&nbsp;&nbsp;[Cardio]( cardio ) &nbsp;&nbsp;&nbsp;[Building]( muscul ) &nbsp;&nbsp;&nbsp;[Food]( food ) &nbsp;&nbsp;&nbsp;[Motivation]( motivation ) &nbsp;&nbsp;&nbsp;[Evolution]( evo )
 
 # Strength Training: Build Your Body and Mind
 
